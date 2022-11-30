@@ -34,7 +34,7 @@ export default class extends React.Component {
       var token, student_id, error;
       if(result.status == 'success') {
         token = result.data.token;
-        student_id = result.data.student_id;
+        student_id = result.data.user.student_id;
         error = null;
       } else {
         token = null;
@@ -42,9 +42,8 @@ export default class extends React.Component {
         error = result.data.message;
       }
       const Telegram = window.Telegram;
-      Telegram.WebApp.sendData({token, student_id, error});
+      Telegram.WebApp.sendData(JSON.stringify({token, student_id, error}));
       Telegram.WebApp.close();
-
     });
     event.preventDefault();
   }
