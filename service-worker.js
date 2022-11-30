@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/IITBSkynetBot/precache-manifest.d98e8cbccc706fdb8b8aff25d326b191.js"
+  "/IITBSkynetBot/precache-manifest.13fcaadb5a1d5eda1607684029e478cb.js"
 );
 
 self.addEventListener('message', (event) => {
