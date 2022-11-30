@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/IITBSkynetBot/static/css/main.b000155c.chunk.css",
-    "main.js": "/IITBSkynetBot/static/js/main.f2d3ec14.chunk.js",
-    "main.js.map": "/IITBSkynetBot/static/js/main.f2d3ec14.chunk.js.map",
+    "main.js": "/IITBSkynetBot/static/js/main.6a4a58fd.chunk.js",
+    "main.js.map": "/IITBSkynetBot/static/js/main.6a4a58fd.chunk.js.map",
     "runtime~main.js": "/IITBSkynetBot/static/js/runtime~main.92e60683.js",
     "runtime~main.js.map": "/IITBSkynetBot/static/js/runtime~main.92e60683.js.map",
     "static/js/2.97d7b6a6.chunk.js": "/IITBSkynetBot/static/js/2.97d7b6a6.chunk.js",
     "static/js/2.97d7b6a6.chunk.js.map": "/IITBSkynetBot/static/js/2.97d7b6a6.chunk.js.map",
     "index.html": "/IITBSkynetBot/index.html",
-    "precache-manifest.88e943089f4abb3914ce3191e5e22fc5.js": "/IITBSkynetBot/precache-manifest.88e943089f4abb3914ce3191e5e22fc5.js",
+    "precache-manifest.d98e8cbccc706fdb8b8aff25d326b191.js": "/IITBSkynetBot/precache-manifest.d98e8cbccc706fdb8b8aff25d326b191.js",
     "service-worker.js": "/IITBSkynetBot/service-worker.js",
     "static/css/main.b000155c.chunk.css.map": "/IITBSkynetBot/static/css/main.b000155c.chunk.css.map"
   }
